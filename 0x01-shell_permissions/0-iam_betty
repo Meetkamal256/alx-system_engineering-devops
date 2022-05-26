@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo be:tty
+sudo betty
