@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo btty
+sudo be:tty
